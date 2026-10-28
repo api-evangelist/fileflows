@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-FileFlows is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://fileflows.com/
+FileFlows provides an automated file processing platform that lets users design, schedule, and run pipelines for tasks like video transcoding, audio processing, image conversion, and ebook handling. It supports self‑hosted deployments on single servers or distributed clusters, offering a visual drag‑and‑drop flow editor, real‑time monitoring, extensible plugins, and cloud‑ready Docker installations. The platform targets home labs, enterprises, and developers needing flexible, scalable automation of file workflows.
+
+**Areas:** Company · Automation · File Processing · Self-hosted · Docker · Open Source
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fileflows.com/)
+- [Documentation](https://fileflows.com/docs/)
+- [Getting started](https://fileflows.com/docs/getting-started)
+- [API reference](https://fileflows.com/docs/api/)
+- [Pricing](https://fileflows.com/pricing)
+- [Privacy policy](https://fileflows.com/privacy-policy)
+- [GitHub](https://github.com/fileflows)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/fileflows/](https://apis.io/providers/fileflows/).
